@@ -1,6 +1,7 @@
 *.pdf
 .DS_Store
 
+
 .history
 
 __pycache__
