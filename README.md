@@ -1,5 +1,3 @@
-# pdf-tools
-
 Install PyPDF2 and pdfrw via `python3 -m pip install -r requirements.txt`.
 
 Also, install `qpdf` before using any script. Make sure `qpdf` can be found directly in your `PATH`.
